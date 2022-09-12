@@ -1,7 +1,7 @@
 ### Olá, me Chamo Jonathas 👋
 
 🤓 Estudando HTML, Free Code Camp
-💻 Ciência da Computação Uninove 6 Semestre
+💻 Ciência da Computação Uninove 7 Semestre
 ✨ Python, HTML, CSS
 🍕 Estagiário
 
