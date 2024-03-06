@@ -3,7 +3,7 @@
 🤓 Estudando HTML, Free Code Camp
 💻 Ciência da Computação Uninove 7 Semestre
 ✨ Python, HTML, CSS
-🍕 Estagiário
+
 
 <div align="center">
   <a href="https://github.com/Jonathas-da-Silva-Ferreira">
