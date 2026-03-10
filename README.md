@@ -5,10 +5,10 @@
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jonathas-da-silva-ferreira.github.io/portfolio2/)
 [![LinkDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathas-da-silva-ferreira-922389173/)
 
-![Jonathas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathas-da-Silva-Ferreira&show_icons=true&theme=onedark)
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html).
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonathas-da-Silva-Ferreira&show_icons=true&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas-da-Silva-Ferreira&layout=compact&theme=onedark"/>
+</p>
 ### Tecnologia que eu uso no meu Dia
 
 <div style="display inline_block"></br>
