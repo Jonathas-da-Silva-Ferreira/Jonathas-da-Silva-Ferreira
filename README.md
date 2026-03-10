@@ -1,4 +1,5 @@
-### Olá! Eu sou Jonathas da Silva 👋 😎
+### Hello, I'm Jonathas 👋
+Backend Software Engineer
 
 
 
@@ -6,10 +7,11 @@
 [![LinkDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathas-da-silva-ferreira-922389173/)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonathas-da-Silva-Ferreira&show_icons=true&theme=onedark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas-da-Silva-Ferreira&layout=compact&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Jonathas-da-Silva-Ferreira&show_icons=true&theme=radical"/>
 </p>
-### Tecnologia que eu uso no meu Dia
+
+### Technologies
 
 <div style="display inline_block"></br>
     <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
